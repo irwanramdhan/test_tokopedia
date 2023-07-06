@@ -1,0 +1,8 @@
+standard_user:
+  standard_username: 'standard_user'
+  standard_password: 'secret_sauce'
+
+user_data:
+  firstname: 'standard'
+  lastname: 'user'
+  zipcode: '123456'
